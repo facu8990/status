@@ -13,7 +13,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Sudestec**"
+  introTitle: "**Sudestec Status**"
   introMessage: Status page for Sudestec products.
   navbar:
     - title: Sudestec Cloud
