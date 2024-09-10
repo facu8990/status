@@ -8,6 +8,8 @@ sites:
     url: https://app.sudestec.ar
   - name: Sudestec API
     url: https://api.sudestec.ar/_/#/login
+  - name: Sudestec Movies
+    url: https://movies.sudestec.ar/
 
 status-website:
   baseUrl: /status
@@ -22,3 +24,5 @@ status-website:
       href: https://app.sudestec.ar
     - title: Sudestec API
       href: https://api.sudestec.ar/_/
+    - name: Sudestec Movies
+      href: https://movies.sudestec.ar/
