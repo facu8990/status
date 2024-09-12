@@ -4,19 +4,19 @@
     "url": "https://own.sudestec.ar/login",
     "icon": "https://icons.duckduckgo.com/ip3/own.sudestec.ar.ico",
     "slug": "sudestec-cloud",
-    "status": "down",
-    "uptime": "88.55%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "88.55%",
-    "uptimeMonth": "88.55%",
-    "uptimeYear": "88.55%",
+    "status": "up",
+    "uptime": "88.39%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "88.39%",
+    "uptimeMonth": "88.39%",
+    "uptimeYear": "88.39%",
     "time": 860,
-    "timeDay": 925,
+    "timeDay": 905,
     "timeWeek": 860,
     "timeMonth": 860,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2024-09-12": 0,
+      "2024-09-12": 15,
       "2024-09-10": 855,
       "2024-09-09": 34,
       "2024-09-07": 79
@@ -79,7 +79,7 @@
     "timeMonth": 983,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2024-09-12": 1107,
+      "2024-09-12": 1122,
       "2024-09-11": 1440,
       "2024-09-10": 501
     }
