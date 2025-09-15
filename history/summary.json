@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/own.sudestec.ar.ico",
     "slug": "sudestec-cloud",
     "status": "up",
-    "uptime": "80.09%",
+    "uptime": "80.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.23%",
-    "uptimeYear": "79.88%",
-    "time": 1686,
-    "timeDay": 751,
-    "timeWeek": 737,
-    "timeMonth": 1501,
-    "timeYear": 1720,
+    "uptimeYear": "79.94%",
+    "time": 1684,
+    "timeDay": 831,
+    "timeWeek": 751,
+    "timeMonth": 1505,
+    "timeYear": 1718,
     "dailyMinutesDown": {
       "2025-09-05": 875,
       "2025-09-04": 1440,
@@ -137,8 +137,7 @@
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1091,
-      "2024-09-17": 27,
-      "2024-09-15": 697
+      "2024-09-17": 27
     }
   },
   {
@@ -153,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.10%",
     "time": 207,
-    "timeDay": 165,
-    "timeWeek": 260,
-    "timeMonth": 262,
+    "timeDay": 353,
+    "timeWeek": 271,
+    "timeMonth": 266,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-04-06": 1153,
@@ -175,16 +174,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sudestec.ar.ico",
     "slug": "sudestec-api",
     "status": "up",
-    "uptime": "81.34%",
+    "uptime": "81.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.23%",
-    "uptimeYear": "81.02%",
-    "time": 1648,
-    "timeDay": 571,
-    "timeWeek": 669,
-    "timeMonth": 1541,
-    "timeYear": 1678,
+    "uptimeYear": "81.08%",
+    "time": 1646,
+    "timeDay": 662,
+    "timeWeek": 663,
+    "timeMonth": 1543,
+    "timeYear": 1676,
     "dailyMinutesDown": {
       "2025-09-05": 875,
       "2025-09-04": 1440,
@@ -300,8 +299,7 @@
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1091,
-      "2024-09-17": 26,
-      "2024-09-15": 697
+      "2024-09-17": 26
     }
   },
   {
@@ -315,13 +313,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1418,
-    "timeDay": 449,
-    "timeWeek": 516,
-    "timeMonth": 1308,
-    "timeYear": 1424,
+    "time": 1416,
+    "timeDay": 591,
+    "timeWeek": 523,
+    "timeMonth": 1313,
+    "timeYear": 1421,
     "dailyMinutesDown": {
-      "2025-09-14": 87,
+      "2025-09-15": 87,
+      "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
@@ -684,8 +683,7 @@
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
-      "2024-09-16": 1440,
-      "2024-09-15": 1440
+      "2024-09-16": 1440
     }
   }
 ]
