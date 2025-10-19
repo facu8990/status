@@ -1,7 +1,7 @@
 url: https://api.sudestec.ar/_/#/login
-status: down
-code: 522
-responseTime: 19805
-lastUpdated: 2025-10-19T03:59:38.527Z
+status: up
+code: 200
+responseTime: 719
+lastUpdated: 2025-10-19T22:42:50.596Z
 startTime: 2024-09-06T21:29:19.247Z
 generator: Upptime <https://github.com/upptime/upptime>
