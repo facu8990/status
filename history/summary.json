@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/own.sudestec.ar.ico",
     "slug": "sudestec-cloud",
     "status": "up",
-    "uptime": "81.74%",
+    "uptime": "81.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.85%",
     "uptimeMonth": "97.43%",
     "uptimeYear": "83.04%",
-    "time": 1669,
-    "timeDay": 721,
-    "timeWeek": 2800,
+    "time": 1667,
+    "timeDay": 629,
+    "timeWeek": 2792,
     "timeMonth": 1756,
-    "timeYear": 1781,
+    "timeYear": 1785,
     "dailyMinutesDown": {
       "2025-10-19": 1124,
       "2025-09-20": 512,
@@ -123,8 +123,7 @@
       "2024-11-09": 39,
       "2024-11-08": 454,
       "2024-11-07": 223,
-      "2024-11-06": 39,
-      "2024-10-25": 18
+      "2024-11-06": 39
     }
   },
   {
@@ -139,9 +138,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.10%",
     "time": 208,
-    "timeDay": 269,
-    "timeWeek": 204,
-    "timeMonth": 214,
+    "timeDay": 100,
+    "timeWeek": 195,
+    "timeMonth": 211,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-04-06": 1153,
@@ -161,16 +160,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sudestec.ar.ico",
     "slug": "sudestec-api",
     "status": "up",
-    "uptime": "82.88%",
+    "uptime": "82.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.86%",
     "uptimeMonth": "97.44%",
     "uptimeYear": "84.17%",
-    "time": 1596,
-    "timeDay": 681,
-    "timeWeek": 2770,
-    "timeMonth": 1208,
-    "timeYear": 1708,
+    "time": 1594,
+    "timeDay": 571,
+    "timeWeek": 2766,
+    "timeMonth": 1207,
+    "timeYear": 1712,
     "dailyMinutesDown": {
       "2025-10-19": 1123,
       "2025-09-20": 512,
@@ -287,13 +286,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1324,
-    "timeDay": 509,
-    "timeWeek": 451,
-    "timeMonth": 481,
-    "timeYear": 1404,
+    "time": 1322,
+    "timeDay": 534,
+    "timeWeek": 462,
+    "timeMonth": 484,
+    "timeYear": 1405,
     "dailyMinutesDown": {
-      "2025-10-24": 82,
+      "2025-10-25": 83,
+      "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
@@ -656,8 +656,7 @@
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
-      "2024-10-26": 1440,
-      "2024-10-25": 1440
+      "2024-10-26": 1440
     }
   }
 ]
