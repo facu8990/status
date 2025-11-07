@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/own.sudestec.ar.ico",
     "slug": "sudestec-cloud",
     "status": "up",
-    "uptime": "82.23%",
+    "uptime": "82.25%",
     "uptimeDay": "58.41%",
     "uptimeWeek": "94.06%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "82.94%",
-    "time": 1643,
-    "timeDay": 583,
-    "timeWeek": 687,
-    "timeMonth": 1252,
+    "time": 1642,
+    "timeDay": 629,
+    "timeWeek": 704,
+    "timeMonth": 1254,
     "timeYear": 1812,
     "dailyMinutesDown": {
       "2025-11-06": 599,
@@ -122,8 +122,7 @@
       "2024-11-20": 1434,
       "2024-11-19": 226,
       "2024-11-09": 39,
-      "2024-11-08": 454,
-      "2024-11-07": 223
+      "2024-11-08": 454
     }
   },
   {
@@ -138,9 +137,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.10%",
     "time": 208,
-    "timeDay": 175,
-    "timeWeek": 190,
-    "timeMonth": 210,
+    "timeDay": 238,
+    "timeWeek": 199,
+    "timeMonth": 209,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-04-06": 1153,
@@ -160,15 +159,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sudestec.ar.ico",
     "slug": "sudestec-api",
     "status": "up",
-    "uptime": "83.33%",
+    "uptime": "83.34%",
     "uptimeDay": "58.41%",
     "uptimeWeek": "94.06%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "84.06%",
-    "time": 1570,
-    "timeDay": 552,
-    "timeWeek": 622,
-    "timeMonth": 1212,
+    "time": 1569,
+    "timeDay": 616,
+    "timeWeek": 646,
+    "timeMonth": 1214,
     "timeYear": 1728,
     "dailyMinutesDown": {
       "2025-11-06": 599,
@@ -271,8 +270,7 @@
       "2024-11-20": 1434,
       "2024-11-19": 224,
       "2024-11-09": 35,
-      "2024-11-08": 441,
-      "2024-11-07": 217
+      "2024-11-08": 441
     }
   },
   {
@@ -286,13 +284,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1298,
-    "timeDay": 380,
-    "timeWeek": 494,
-    "timeMonth": 505,
+    "time": 1296,
+    "timeDay": 498,
+    "timeWeek": 502,
+    "timeMonth": 503,
     "timeYear": 1406,
     "dailyMinutesDown": {
-      "2025-11-06": 1101,
+      "2025-11-07": 88,
+      "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -655,8 +654,7 @@
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
-      "2024-11-08": 1440,
-      "2024-11-07": 1440
+      "2024-11-08": 1440
     }
   }
 ]
