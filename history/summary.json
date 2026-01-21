@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/own.sudestec.ar.ico",
     "slug": "sudestec-cloud",
     "status": "down",
-    "uptime": "72.33%",
+    "uptime": "72.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.74%",
-    "time": 1735,
-    "timeDay": 561,
-    "timeWeek": 554,
-    "timeMonth": 667,
+    "uptimeYear": "66.47%",
+    "time": 1734,
+    "timeDay": 490,
+    "timeWeek": 542,
+    "timeMonth": 658,
     "timeYear": 1911,
     "dailyMinutesDown": {
-      "2026-01-20": 106,
+      "2026-01-21": 109,
+      "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
@@ -172,8 +173,7 @@
       "2025-01-31": 16,
       "2025-01-29": 18,
       "2025-01-23": 49,
-      "2025-01-22": 142,
-      "2025-01-21": 77
+      "2025-01-22": 142
     }
   },
   {
@@ -188,8 +188,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.09%",
     "time": 213,
-    "timeDay": 243,
-    "timeWeek": 233,
+    "timeDay": 230,
+    "timeWeek": 228,
     "timeMonth": 237,
     "timeYear": 221,
     "dailyMinutesDown": {
@@ -210,18 +210,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sudestec.ar.ico",
     "slug": "sudestec-api",
     "status": "down",
-    "uptime": "73.27%",
+    "uptime": "73.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.86%",
-    "time": 1634,
-    "timeDay": 532,
-    "timeWeek": 524,
-    "timeMonth": 578,
-    "timeYear": 1834,
+    "uptimeYear": "67.58%",
+    "time": 1633,
+    "timeDay": 493,
+    "timeWeek": 517,
+    "timeMonth": 569,
+    "timeYear": 1833,
     "dailyMinutesDown": {
-      "2026-01-20": 106,
+      "2026-01-21": 109,
+      "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
@@ -373,8 +374,7 @@
       "2025-02-01": 210,
       "2025-01-29": 17,
       "2025-01-23": 49,
-      "2025-01-22": 141,
-      "2025-01-21": 76
+      "2025-01-22": 141
     }
   },
   {
@@ -388,13 +388,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1320,
-    "timeDay": 546,
-    "timeWeek": 528,
-    "timeMonth": 534,
+    "time": 1318,
+    "timeDay": 470,
+    "timeWeek": 516,
+    "timeMonth": 525,
     "timeYear": 1579,
     "dailyMinutesDown": {
-      "2026-01-20": 106,
+      "2026-01-21": 109,
+      "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
@@ -757,8 +758,7 @@
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
-      "2025-01-22": 1440,
-      "2025-01-21": 1440
+      "2025-01-22": 1440
     }
   }
 ]
