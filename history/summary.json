@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/own.sudestec.ar.ico",
     "slug": "sudestec-cloud",
     "status": "down",
-    "uptime": "69.68%",
+    "uptime": "69.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.91%",
-    "time": 1683,
-    "timeDay": 544,
-    "timeWeek": 570,
-    "timeMonth": 668,
+    "uptimeYear": "61.64%",
+    "time": 1681,
+    "timeDay": 626,
+    "timeWeek": 573,
+    "timeMonth": 671,
     "timeYear": 1929,
     "dailyMinutesDown": {
-      "2026-02-08": 154,
+      "2026-02-09": 132,
+      "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -184,8 +185,7 @@
       "2025-03-14": 1206,
       "2025-03-07": 883,
       "2025-03-06": 451,
-      "2025-02-10": 119,
-      "2025-02-09": 203
+      "2025-02-10": 119
     }
   },
   {
@@ -200,10 +200,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.09%",
     "time": 215,
-    "timeDay": 241,
+    "timeDay": 261,
     "timeWeek": 253,
-    "timeMonth": 264,
-    "timeYear": 225,
+    "timeMonth": 265,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2025-11-18": 99,
       "2025-04-06": 1153,
@@ -222,15 +222,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sudestec.ar.ico",
     "slug": "sudestec-api",
     "status": "up",
-    "uptime": "73.45%",
+    "uptime": "73.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.98%",
+    "uptimeMonth": "50.21%",
     "uptimeYear": "66.87%",
     "time": 1657,
-    "timeDay": 703,
-    "timeWeek": 743,
-    "timeMonth": 1196,
+    "timeDay": 782,
+    "timeWeek": 737,
+    "timeMonth": 1202,
     "timeYear": 1878,
     "dailyMinutesDown": {
       "2026-02-01": 73,
@@ -386,8 +386,7 @@
       "2025-03-14": 1217,
       "2025-03-07": 883,
       "2025-03-06": 450,
-      "2025-02-10": 119,
-      "2025-02-09": 201
+      "2025-02-10": 119
     }
   },
   {
@@ -401,13 +400,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1307,
-    "timeDay": 559,
-    "timeWeek": 540,
-    "timeMonth": 594,
+    "time": 1306,
+    "timeDay": 631,
+    "timeWeek": 541,
+    "timeMonth": 596,
     "timeYear": 1580,
     "dailyMinutesDown": {
-      "2026-02-08": 154,
+      "2026-02-09": 132,
+      "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -770,8 +770,7 @@
       "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
-      "2025-02-10": 1440,
-      "2025-02-09": 1440
+      "2025-02-10": 1440
     }
   }
 ]
