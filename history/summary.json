@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/own.sudestec.ar.ico",
     "slug": "sudestec-cloud",
     "status": "down",
-    "uptime": "64.12%",
+    "uptime": "64.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "52.89%",
     "time": 1677,
-    "timeDay": 866,
+    "timeDay": 606,
     "timeWeek": 549,
-    "timeMonth": 684,
-    "timeYear": 1936,
+    "timeMonth": 685,
+    "timeYear": 1929,
     "dailyMinutesDown": {
-      "2026-03-25": 131,
+      "2026-03-26": 145,
+      "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
@@ -213,8 +214,7 @@
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
-      "2025-03-27": 1440,
-      "2025-03-26": 1440
+      "2025-03-27": 1440
     }
   },
   {
@@ -229,9 +229,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.09%",
     "time": 222,
-    "timeDay": 237,
-    "timeWeek": 229,
-    "timeMonth": 260,
+    "timeDay": 250,
+    "timeWeek": 226,
+    "timeMonth": 256,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2025-11-18": 99,
@@ -251,18 +251,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sudestec.ar.ico",
     "slug": "sudestec-api",
     "status": "down",
-    "uptime": "68.75%",
+    "uptime": "68.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "59.64%",
-    "time": 1656,
-    "timeDay": 644,
-    "timeWeek": 646,
-    "timeMonth": 806,
-    "timeYear": 1904,
+    "time": 1657,
+    "timeDay": 827,
+    "timeWeek": 653,
+    "timeMonth": 815,
+    "timeYear": 1900,
     "dailyMinutesDown": {
-      "2026-03-25": 131,
+      "2026-03-26": 145,
+      "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
@@ -439,8 +440,7 @@
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
-      "2025-03-27": 1440,
-      "2025-03-26": 1440
+      "2025-03-27": 1440
     }
   },
   {
@@ -455,12 +455,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 1375,
-    "timeDay": 492,
-    "timeWeek": 476,
-    "timeMonth": 786,
-    "timeYear": 1594,
+    "timeDay": 618,
+    "timeWeek": 502,
+    "timeMonth": 788,
+    "timeYear": 1587,
     "dailyMinutesDown": {
-      "2026-03-25": 131,
+      "2026-03-26": 145,
+      "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
@@ -823,8 +824,7 @@
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
-      "2025-03-27": 1440,
-      "2025-03-26": 1440
+      "2025-03-27": 1440
     }
   }
 ]
